@@ -6,3 +6,5 @@ Fast Food Restaurant to reduce man power and reduce human-to-human contact in th
 of the COVID-19 pandemic.
 
 
+For more information:
+[RMM2G1 Food Ordering System Report.pdf](https://github.com/hwaernie/Food-Ordering-System-using-Object-Oriented-Programming-/files/7187179/RMM2G1.Food.Ordering.System.Report.pdf)
